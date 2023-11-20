@@ -5,7 +5,7 @@ This data analysis projetc aims to provide insights into the employee performanc
 
 ## Data Source
 For the project I used a csv file that contains over 20000 rows of employee data. 
-https://github.com/refh0101/HR-Dashboard-MySQL-Power-BI-/blob/main/Human%20Resources.csv
+[HRdataset](https://github.com/refh0101/HR-Dashboard-MySQL-Power-BI-/blob/main/Human%20Resources.csv)
 ## Tools
 
 ## Data Cleaning/Preparation
